@@ -1,1 +1,1 @@
-'Инструкция readme' 
+'Instruction for use' 
